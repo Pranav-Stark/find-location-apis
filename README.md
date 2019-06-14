@@ -7,7 +7,7 @@ In this , there are five APIs in total to find desired result as follows.
 2. Get Location (Passing text)
 3. Get Near By Locations
 4. Get Filtered Location On Category
-5. Get Explored (Deatiled) Location
+5. Get Explored (Detailed) Location
 
 To achive this , I am using third party APIs like Google and Foursquare.
 
