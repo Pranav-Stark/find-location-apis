@@ -20,7 +20,7 @@ http://localhost:8081/location/apis/v1/getFilteredLocationOnCategory?categoryId=
 5. Get Explored (Detailed) Location
 http://localhost:8081/location/apis/v1/getExploredLocation?longitude_latitude=<longitude,latitude> ex.longitude_latitude = 18.5204,73.8567
 
-# To achive this , I am using third party APIs like Google and Foursquare.
+ To achive this , I am using third party APIs like Google and Foursquare.
 
 # Project includes following additional points as well.
 
